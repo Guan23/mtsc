@@ -1,2 +1,2 @@
 # mtsc
-An Algorithm Framework for Multi Variable Time Series Data Classification Task
+    这是一个多变量时序数据分类任务的算法框架
