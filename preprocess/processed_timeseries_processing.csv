@@ -1,0 +1,3 @@
+step,method,details,n_components,explained_variance
+相关性处理,auto → pca,降维至3个主成分,,
+PCA降维,,"主成分: PC1, PC2, PC3",3.0,1.0
